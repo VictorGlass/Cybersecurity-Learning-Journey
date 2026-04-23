@@ -2,8 +2,6 @@
 
 ## Fundamentals
 
----
-
 ## 1. CIA Triad
 
 The CIA triad is a core concept in cybersecurity:
@@ -17,7 +15,6 @@ The CIA triad is a core concept in cybersecurity:
 - **Availability**  
   Systems and data must be accessible when needed.
 
----
 
 ## 2. Identification and Authentication
 
@@ -30,7 +27,6 @@ The CIA triad is a core concept in cybersecurity:
 - **Non-repudiation**  
   Ensuring that a user cannot deny their actions.
 
----
 
 ## 3. Access Control
 
@@ -40,7 +36,6 @@ Users should only have the minimum permissions necessary.
 
 This reduces the attack surface and limits potential damage.
 
----
 
 ### Physical Access Control
 
@@ -51,7 +46,6 @@ Examples include:
 - CCTV  
 - Security personnel  
 
----
 
 ### Access Control Models
 
@@ -67,31 +61,26 @@ Access is assigned based on roles.
 #### Attribute-Based Access Control (ABAC)
 Access depends on attributes like user, resource, and environment.
 
----
 
 ## 4. Risk Management
 
 *(To be completed)*
 
----
 
 ## 5. Governance
 
 *(To be completed)*
 
----
 
 ## 6. Business Continuity
 
 *(To be completed)*
 
----
 
 ## 7. DFIR (Digital Forensics and Incident Response)
 
 *(To be completed)*
 
----
 
 ## Personal Insight
 

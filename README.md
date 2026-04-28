@@ -29,7 +29,7 @@ The goal is not only to understand theoretical concepts, but to apply them in pr
 ### Module 1 - Cyber Threat Defense
 - [x] Fundamentals  
 - [x] Risk Management  
-- [ ] Governance  
+- [x] Governance  
 - [ ] Business Continuity  
 - [ ] DFIR  
 

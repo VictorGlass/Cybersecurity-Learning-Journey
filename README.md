@@ -31,7 +31,7 @@ The goal is not only to understand theoretical concepts, but to apply them in pr
 - [x] Risk Management  
 - [x] Governance  
 - [x] Business Continuity  
-- [ ] DFIR  
+- [x] DFIR  
 
 ---
 

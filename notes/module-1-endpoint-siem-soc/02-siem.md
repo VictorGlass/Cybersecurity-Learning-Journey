@@ -194,3 +194,72 @@ Examples:
 - Specific CVEs
 - Incident-related IOCs
 
+
+## Detection Models
+
+Rule-Based Detection
+
+Detection models based on queries and logic.
+
+Typical workflow:
+
+Filter → Group → Sort → Present
+
+Examples:
+
+- KQL
+- Sumo Logic Query Language
+- SPL
+- Lucene
+
+Requires continuous maintenance by vendors and SOC teams.
+
+External Intelligence
+
+Correlates IOCs from internal or external intelligence sources with SIEM observables.
+
+Examples:
+
+- Incoming connections from TOR nodes
+- Successful logins from malicious IP addresses
+
+Requires continuous evaluation and maintenance of intelligence sources.
+
+Artificial Intelligence
+
+Autonomous systems that use predictive models to detect deviations from normal behavior.
+
+Examples:
+
+- Suspicious behavior detection
+- Alert prioritization using dynamic scores
+
+Usually requires previous model training with customer-specific data.
+
+Alert Correlation
+
+Correlation combines multiple events to identify broader attack patterns.
+
+Examples:
+
+MEDIUM
+Successful login from a new IP address
+
+HIGH
+Successful login to a privileged account from a new IP address
+
+MEDIUM
+Creation of an email forwarding rule
+
+INFO
+Email sent to a corporate user
+
+LOW
+SharePoint folder shared with an external user
+
+Key Takeaways
+- SIEM centralizes security visibility.
+- Log collection alone is not enough; normalization and filtering are required.
+- Correlation improves detection accuracy.
+- Detection models evolve from rules to AI-assisted approaches.
+- Retention and monitoring are essential for DFIR and compliance.

@@ -1,56 +1,59 @@
 # Cybersecurity Learning Journey 🔐
 
-This repository documents my hands-on learning path in cybersecurity, combining structured training with self-driven practice.
+Este repositorio documenta mi itinerario de aprendizaje práctico en ciberseguridad, que combina formación estructurada con práctica autónoma.
 
-## 📚 About
+## 📚 Acerca de
 
-I am currently following a cybersecurity workshop focused on:
+Actualmente estoy realizando un taller de ciberseguridad centrado en:
 
-- Cyber Threat Defense  
-- Ethical Hacking  
-- Infrastructure Security  
-- Hardware & IoT/OT Security  
+- Defensa contra amenazas cibernéticas
+- Hacking ético
+- Seguridad de infraestructuras
+- Seguridad de hardware e IoT/OT
 
-The goal is not only to understand theoretical concepts, but to apply them in practical scenarios.
-
----
-
-## 📂 Repository Structure
-
-- `notes/` → Theoretical concepts explained in my own words  
-- `labs/` → Practical exercises and experiments  
-- `tools/` → Setup and configuration of cybersecurity tools  
-- `writeups/` → Detailed analysis of exercises and scenarios  
+El objetivo no es solo comprender los conceptos teóricos, sino aplicarlos en situaciones prácticas.
 
 ---
 
-## 🚀 Progress
+## 📂 Estructura del repositorio
 
-### Module 1 - Cyber Threat Defense
-- [x] Fundamentals  
-- [x] Risk Management  
-- [x] Governance  
-- [x] Business Continuity  
-- [x] DFIR  
+- `notes/` → Conceptos teóricos explicados con mis propias palabras
+- `labs/` → Ejercicios prácticos y experimentos
+- `tools/` → Instalación y configuración de herramientas de ciberseguridad
+- `writeups/` → Análisis detallado de ejercicios y escenarios
 
 ---
 
-## 🎯 Objectives
+## 🚀 Progreso
 
-- Build a solid foundation in cybersecurity principles  
-- Understand how attacks work and how to defend against them  
-- Gain hands-on experience with tools and real-world scenarios  
-
----
-
-## ⚠️ Disclaimer
-
-All content in this repository is created by me for educational purposes only.  
-No official course materials or sensitive information are included.
+### Módulo 1: Defensa contra amenazas cibernéticas
+- [x] Fundamentos
+- [x] Gestión de riesgos
+- [x] Gobernanza
+- [x] Continuidad del negocio
+- [x] DFIR
 
 ---
 
-## 🤝 Let's Connect
+## 🎯 Objetivos
 
-I’m currently focused on learning and improving my skills in cybersecurity.  
-Feel free to connect if you share similar interests or work in the field.
+- Adquirir una base sólida en los principios de la ciberseguridad
+- Comprender cómo funcionan los ataques y cómo defenderse de ellos
+- Obtener experiencia práctica con herramientas y escenarios reales
+
+---
+
+## ⚠️ Aviso legal
+
+Todo el contenido de este repositorio ha sido creado por mí con fines exclusivamente educativos.
+No se incluyen materiales oficiales de cursos ni información confidencial.
+
+---
+
+## 🤝 Conectemos
+
+Actualmente me centro en aprender y mejorar mis habilidades en ciberseguridad.
+No dudes en ponerte en contacto conmigo si compartes intereses similares o trabajas en este campo.
+
+
+Traducción realizada con la versión gratuita del traductor DeepL.com

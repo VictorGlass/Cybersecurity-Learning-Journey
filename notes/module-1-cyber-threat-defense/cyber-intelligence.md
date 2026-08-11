@@ -1,5 +1,6 @@
 # Ciberinteligencia
 
+<br></br>
 ## 1. Introducción
 
 ### ¿Qué es la Ciberinteligencia?
@@ -31,7 +32,7 @@ Por ejemplo:
 
 * IPs vinculadas a un APT
 
-
+<br></br>
 ## 2. Fuentes de Inteligencia
 
 Recursos típicos usados por procesos de CTI
@@ -48,6 +49,7 @@ Recursos típicos usados por procesos de CTI
 * Open Source Intelligence (OSINT)
 * Plataformas de intercambio de información
 
+<br></br>
 ## 3. Ciclo de Inteligencia
 
 Ciclo de vida de la inteligencia de ciber-amenazas
@@ -74,7 +76,7 @@ Ciclo de vida de la inteligencia de ciber-amenazas
 
 * Envió del producto de inteligencia a los órganos destinatarios correspondientes
 
-
+<br></br>
 ## 4. Tipos de Inteligencia
 
 Tipos de Inteligencia según sus objetivos
@@ -114,7 +116,7 @@ El objetivo es la detección de estops indicadores para ofrecer respuesta a tiem
 La inteligencia generada se consume de forma autónoma por los sistemas de monitorización.
 
 
-
+<br></br>
 ## 5. Cyber Kill Chain
 
 Fases de un ataque cibernético (Lockheed Martin)
@@ -141,6 +143,7 @@ Se establece un canal de comunicación con un sistema externo controlado por el 
 Se consigue el objetivo final
 
 
+<br></br>
 ## 6. Tácticas, Técnicas y Procedimientos (TTPs)
 
 Tácticas, Técnicas y Procedimientos
@@ -169,13 +172,13 @@ Ejemplo:
 * Establecer persistencia mediante la clave RunOnce
 
 
-
+<br></br>
 ## 7. MITRE ATT&CK
 
 Framework MITRE ATT&CK
 
 
-
+<br></br>
 ## 8. Advance Persistent Threats (APTs)
 
 ¿Motivación?
@@ -198,7 +201,7 @@ Framework MITRE ATT&CK
 - Destructiva
 
 
-
+<br></br>
 ## 9. Difusión de Inteligencia
 
 Estándares STIX y TAXII
@@ -222,7 +225,7 @@ Estándares STIX y TAXII
 
 
 
-
+<br></br>
 ## 10. Herramientas de Open Source
 
 Plataformas Open-Source
@@ -246,6 +249,7 @@ Plataformas Open-Source
 
 
 
+<br></br>
 ## 11. Usos de la CTI
 
 

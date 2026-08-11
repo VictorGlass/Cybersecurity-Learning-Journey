@@ -27,11 +27,11 @@ El objetivo no es solo comprender los conceptos teóricos, sino aplicarlos en si
 ## 🚀 Progreso
 
 ### Módulo 1: Defensa contra amenazas cibernéticas
-- [x] Fundamentos
-- [x] Gestión de riesgos
-- [x] Gobernanza
-- [x] Continuidad del negocio
-- [x] DFIR
+- [ ] Fundamentos
+- [ ] Gestión de riesgos
+- [ ] Gobernanza
+- [ ] Continuidad del negocio
+- [ ] DFIR
 
 ---
 

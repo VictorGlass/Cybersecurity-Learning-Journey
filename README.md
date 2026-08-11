@@ -27,7 +27,7 @@ El objetivo no es solo comprender los conceptos teóricos, sino aplicarlos en si
 ## 🚀 Progreso
 
 ### Módulo 1: Defensa contra amenazas cibernéticas
-- [ ] Fundamentos
+- [x] Fundamentos
 - [ ] Gestión de riesgos
 - [ ] Gobernanza
 - [ ] Continuidad del negocio
